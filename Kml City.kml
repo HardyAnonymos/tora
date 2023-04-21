@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kml City.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Placemark>
+		<name>Trades Ward Boundary</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66011162235094,37.89024471760678,4.999999999999999 -80.66013411909384,37.8902217418529,4.999999999999999 -80.66004494582697,37.89016486942321,4.999999999999999 -80.66002567809052,37.89018679430297,4.999999999999999 -80.66005315156731,37.89021316486837,4.999999999999999 -80.66004110130712,37.89023326922486,4.999999999999999 -80.66009131142576,37.89025897450133,4.999999999999999 -80.66011162235094,37.89024471760678,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66004557738295,37.89047532338331,12 -80.66023709344698,37.89059271660521,12 -80.66031952345473,37.8905270699899,12 -80.66012048532782,37.89039273654709,12 -80.66004557738295,37.89047532338331,12 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65998271827939,37.89090932625643,3 -80.65992866471368,37.89088191138034,3 -80.65992624556471,37.89088139809132,3 -80.65994352143615,37.89085790524931,3 -80.65977664071534,37.89079442312266,3 -80.65977495593488,37.89079128674378,3 -80.6597503825687,37.89081268125756,3 -80.6597584125598,37.89092417120397,3 -80.65990451613979,37.89100133780288,3 -80.65997867029277,37.89092457961988,3 -80.65998271827939,37.89090932625643,3 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.660134112341,37.88998740662885,7 -80.66006765202273,37.8900531084664,7 -80.66022224908903,37.89014729635075,7 -80.66028127305827,37.89008820152008,7 -80.660134112341,37.88998740662885,7 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66039240135157,37.89090367024967,9 -80.66039084007076,37.89094630992552,9 -80.66060584425335,37.89094691009121,9 -80.66059261113287,37.89088680785026,9 -80.66039240135157,37.89090367024967,9 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65974359524911,37.89093584854073,0 -80.66016524696312,37.89117468764987,0 -80.6605249447872,37.89135945650031,0 -80.66064434385444,37.89134386449418,0 -80.66060207665242,37.89084379896812,0 -80.66054262470917,37.89037896828842,0 -80.66052713772153,37.89006670203599,0 -80.66052105624226,37.88998560884829,0 -80.66084638951976,37.88966994140226,0 -80.66078731698182,37.88962262238093,0 -80.65988537902685,37.88962155894665,0 -80.65985167740146,37.89036742028724,0 -80.65993818042755,37.89041032870167,0 -80.65998609784454,37.89046755873163,0 -80.65974167636408,37.89080448240087,0 -80.65974359524911,37.89093584854073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
